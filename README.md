@@ -2,7 +2,7 @@
 
 # 🤖 Frobo: The Affordable Emotional Desktop Companion
 
-🚀 Just built a $60 emotional robot that reacts to pets & shakes!
+🚀 Just built a $90 emotional robot that reacts to pets & shakes!
 
 **Frobo** is a budget-friendly emotional AI companion robot built from scratch, inspired by expensive alternatives like Eilik. Frobo is designed to express human-like emotions, respond to tactile interaction, detect table vibrations, and build personality over time — all while being accessible and open-source.
 
@@ -11,7 +11,7 @@
 ## 💡 Origin of the Idea
 
 The idea for Frobo was sparked by the high market price (~₹20,000 INR) of emotional robots like FASTRON Eilik. I asked myself — *why can't I create a smarter and more affordable version on my own?*  
-That challenge turned into **Frobo**, a lovable and customizable robot created for under **₹5,000 INR (~$60)**!
+That challenge turned into **Frobo**, a lovable and customizable robot created for under **₹8,000 INR (~$90)**!
 
 ---
 
