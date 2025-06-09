@@ -60,8 +60,9 @@ frobo/
 
 ## 📢 License & Copyright
 
-All designs, source code, and media related to **Frobo** are original works by DEVANARAYANAN V S (GitHub: @thexcomrade).  
-Unauthorized reproduction, reselling, or commercial use without **explicit permission** is prohibited.
+**@thexcomrade**](https://github.com/thexcomrade) (Devanarayanan V S)  
+> 📁 All designs, source code, and media are original works.  
+> ❗ **No reproduction, reselling, or commercial use allowed without explicit permission.**
 
 ---
 
