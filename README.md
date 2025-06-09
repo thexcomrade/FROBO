@@ -70,7 +70,7 @@ frobo/
 
 If you love Frobo and want to support its development, consider donating to help make affordable robotics accessible to everyone.
 
-![Donate via GPay](assets/gpay_qr.png)
+<img src="assets/gpay_qr.png" alt="Donate via GPay" width="150" />
 
 📲 Scan this QR using any UPI-enabled app (Google Pay, PhonePe, Paytm, etc.)
 
