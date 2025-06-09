@@ -71,7 +71,10 @@ If you love Frobo and want to support its development, consider donating to help
 
 ![Donate via GPay](assets/gpay_qr.png)
 
-Scan the QR above using any UPI-enabled app (like Google Pay, PhonePe, Paytm) 💚
+📲 Scan this QR using any UPI-enabled app (Google Pay, PhonePe, Paytm, etc.)
+
+[![Download QR](https://img.shields.io/badge/Download-QR_Code-green?style=for-the-badge&logo=googlepay)](assets/gpay_qr.png)
+
 
 
 
