@@ -60,7 +60,7 @@ frobo/
 
 ## 📢 License & Copyright
 
-**@thexcomrade**](https://github.com/thexcomrade) (Devanarayanan V S)  
+**@thexcomrade**] (https://github.com/thexcomrade)
 > 📁 All designs, source code, and media are original works.  
 > ❗ **No reproduction, reselling, or commercial use allowed without explicit permission.**
 
