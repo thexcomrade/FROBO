@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FROBO,+The+Friendly+Robot;Emotionally+Responsive+%7C+Budget+Smart;Open-Source+%7C+Frog-Inspired+Design&font=Fira+Code&width=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FROBO,+The+Friendly+Robot;Emotionally+Responsive+%7C+Budget+Smart;Frog-Inspired+Design&font=Fira+Code&width=1000)](https://git.io/typing-svg)
 
 # 🤖 Frobo: The Affordable Emotional Desktop Companion
 
