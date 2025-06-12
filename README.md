@@ -41,19 +41,54 @@ That challenge turned into **Frobo**, a lovable and customizable robot created f
 
 ---
 
-## 📁 Repository Structure
+## 📁 Project Folder Structure
+
+1. Frobo Robot (Hardware + Firmware)
 ```plaintext
-frobo/
-├── arduino_code/
-│ └── frobo_main.ino
-├── 3d_model/
-│ └── frobo_shell.stl
+frobo-robot/
+│
+├── firmware/                  # Arduino or ESP32 code
+│   ├── frobo_main.ino
+│   ├── emotions.h             # OLED facial expressions
+│   └── sensors.ino            # Touch, sound, vibration response
+│
+├── hardware/
+│   ├── circuit-diagram.png
+│   ├── 3D_model_frobo.stl
+│   └── pcb_layout.fzz         # Optional: Fritzing PCB design
+│
 ├── assets/
-│ ├── logo.png
-│ ├── expressions/
-│ └── photos/
+│   ├── frobo_logo.png
+│   └── frobo_photos/
+│
 ├── docs/
-│ └── Frobo_Concept.pdf
+│   └── Frobo_Technical_Doc.pdf
+│
+├── LICENSE
+└── README.md
+```
+
+2. Frobo App (Mobile or Desktop Companion)
+```plaintext
+frobo-app/
+│
+├── android-app/               # If Android app (Kotlin/Flutter)
+│   ├── lib/
+│   ├── assets/
+│   └── main.dart / MainActivity.kt
+│
+├── desktop-app/               # If Python/React Electron App
+│   ├── ui/
+│   ├── frobo_control.py       # PySerial / Bluetooth controller
+│   └── config.json            # Emotion profiles or settings
+│
+├── assets/
+│   ├── app_icons/
+│   └── qr_links/
+│
+├── docs/
+│   └── App_User_Guide.pdf
+│
 └── README.md
 ```
 ---
